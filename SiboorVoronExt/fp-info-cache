@@ -1,4 +1,4 @@
-21451528835593845
+21454907594628993
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -82436,8 +82436,22 @@ L_6.5x6.5_H2.8
 
 
 0
+2
+2
+SMD
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
 0
+5
+5
+SMD
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
 0
+4
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
